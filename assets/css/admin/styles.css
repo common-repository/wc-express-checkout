@@ -1,0 +1,7 @@
+.woocommerce table.form-table input[type=text].colorpick{
+	width: 365px;
+}
+.woocommerce table.form-table .colorpickpreview,
+.colorpickpreview{
+	cursor: pointer;
+}
